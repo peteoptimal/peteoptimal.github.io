@@ -1,0 +1,28 @@
+.body{
+    background-color: yellow;
+}
+
+.flipped{
+    background-color: red;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.message{
+    text-align: center;
+    font-size: xx-large;
+    color: red;   
+}
+
+.frogpic{
+    vertical-align: top;
+}
+
+#music{
+    display: none;
+}
